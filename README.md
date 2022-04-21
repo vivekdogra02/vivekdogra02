@@ -10,7 +10,7 @@ Technical Professional with over 6.5 yrs of experience in the software industry,
 * ✉️  You can contact me at [vivekdogra02@gmail.com](mailto:vivekdogra02@gmail.com)
 * 🧠  I'm learning GatsbyJS, Next JS, Recoil, Tailwind CSS, AWS
 * 🤝  I'm open to collaborating on Whatever new comes up, i am ready to work on.
-* ⚡  JS lover
+* ⚡  JS Lover - Passionately learning new tech and also get some time to solve leetcode and hackerrank problems to understand the data structures and algorithms. Meanwhile, usually spend time in writing blogs on medium.
 
 <a href="https://www.twitter.com/VivekDo07905087" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/VivekDo07905087?logo=twitter&style=for-the-badge&color=22c55e&labelColor=000000"
