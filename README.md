@@ -8,7 +8,7 @@ Technical Professional with over 6.5 yrs of experience in the software industry,
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vivekdogra02@gmail.com](mailto:vivekdogra02@gmail.com)
-* 🧠  I'm learning GatsbyJS, Next JS, Recoil, Tailwind CSS, AWS
+* 🧠  I'm learning Next JS, Tailwind CSS, AWS, Docker.
 * 🤝  I'm open to collaborating on Whatever new comes up, i am ready to work on.
 * ⚡  JS Lover - Passionately learning new tech and also get some time to solve leetcode and hackerrank problems to understand the data structures and algorithms. Meanwhile, usually spend time in writing blogs on medium.
 
