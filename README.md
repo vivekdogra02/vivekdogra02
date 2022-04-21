@@ -4,7 +4,8 @@ Hi 👋 My name is vivek dogra
 Fullstack Javascript Developer ( Angular, React, NodeJS)
 --------------------------------------------------------
 
-Technical Professional with over 6.5 yrs of experience in the software industry, offering specialization in designing and developing applications using technologies such as React JS, Angular, Javascript, Typescript, NodeJS(Express, Sails), HTML5, Bootstrap3, CSS3, responsive web design, SASS etc. Also having basic knowledge for AWS, Python, Currently Learning New Tech (Next JS, Tailwind CSS) etc.
+Technical Professional with over 6.5 yrs of experience in the software industry, offering specialization in designing and developing applications using technologies such as React JS, Angular, Javascript, Typescript, NodeJS(Express, Sails), HTML5, Bootstrap3, CSS3, responsive web design, SASS etc.
+#### Also having basic knowledge for AWS, Python, Docker, Mongodb, Heroku, Firebase.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vivekdogra02@gmail.com](mailto:vivekdogra02@gmail.com)
