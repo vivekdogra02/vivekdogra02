@@ -64,7 +64,22 @@ src="https://img.shields.io/github/followers/vivekdogra02?logo=github&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vivekdogra02/Algo-cast" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekdogra02&repo=Algo-cast&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/vivekdogra02/Clothing-web" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekdogra02&repo=Clothing-web&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/vivekdogra02/Algo-cast" align="left"
+    ><img
+      align="left"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=vivekdogra02&repo=Algo-cast&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en"
+  /></a>
+  <a href="https://github.com/vivekdogra02/twitter-clone" align="right"
+    ><img
+      align="right"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=vivekdogra02&repo=twitter-clone&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en"
+  /></a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+
 
 <br /><br /><br /><br /><br />
 
