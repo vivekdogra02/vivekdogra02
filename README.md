@@ -17,6 +17,15 @@ Technical Professional with over 6.5 yrs of experience in the software industry,
 src="https://img.shields.io/twitter/follow/VivekDo07905087?logo=twitter&style=for-the-badge&color=22c55e&labelColor=000000"
 /></a><a href="https://www.github.com/vivekdogra02" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vivekdogra02?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
+```mermaid
+flowchart TD
+A[Deploy to production ] --> B{is it friday?}
+B -- Yes --> C[Do not Deploy!]
+B -- No --> D[Run Deploy.sh to Deploy!]
+C ----> E[Enjoy your Weekend!]
+D ----> E[Enjoy your Weekend!]
+```
+
 
 ### Skills
 
