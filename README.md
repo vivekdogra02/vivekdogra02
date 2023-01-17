@@ -1,7 +1,7 @@
 Hi 👋 My name is vivek dogra
 ============================
 
-Fullstack Javascript Developer ( Angular, React, NodeJS)
+Fullstack Javascript Developer ( Angular, React, NodeJS, NextJS)
 --------------------------------------------------------
 
 Technical Professional with over 7+yrs of experience in the software industry, offering specialization in designing and developing applications using technologies such as React JS, Angular, Javascript, Typescript, NodeJS(Express, Sails), HTML5, Bootstrap3, CSS3, responsive web design, SASS etc.
